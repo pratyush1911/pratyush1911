@@ -1,5 +1,113 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building Croply – an AI-powered crop disease detection system using React, Node.js, and PostgreSQL<br><br>👯 I’m looking to collaborate on<br>Full-stack projects, hackathons, and real-world problem-solving apps<br><br>🤝 I’m looking for help with<br>Improving AI/ML integration and scaling backend systems<br><br>🌱 I’m currently learning<br>System design, advanced backend (Node.js + PostgreSQL), and practical AI/ML<br><br>💬 Ask me about<br>Full stack development, APIs, databases, or building hackathon-ready projects<br><br>⚡ Fun fact<br>I don’t just build projects — I focus on solving real problems with them
+# Hey, I'm Pratyush Singh
+
+**Computer Science Student | Software Developer | Backend & Full-Stack Enthusiast**
+
+I like building things, breaking them, figuring out why they broke, and then making them better.
+
+Currently focused on **DSA, backend engineering, full-stack development, and system design**.
+
+---
+
+## About Me
+
+* 🎓 Computer Science student at **Manipal University Jaipur**
+* 💻 Building applications with **JavaScript, TypeScript, React, Node.js and Express**
+* 🧠 Practicing **Data Structures & Algorithms in C++**
+* ⚙️ Interested in **Backend Engineering, APIs, Databases & Distributed Systems**
+* 🚀 Building real-world projects instead of only following tutorials
+* 📚 Currently learning how production-grade applications are designed and deployed
+
+---
+
+## Tech Stack
+
+### Languages
+
+`C` `C++` `JavaScript` `TypeScript` `Python` `SQL`
+
+### Frontend
+
+`HTML` `CSS` `React` `Vite` `Tailwind CSS`
+
+### Backend
+
+`Node.js` `Express.js` `REST APIs` `JWT` `Zod`
+
+### Databases
+
+`MongoDB` `PostgreSQL` `MySQL`
+
+### Tools
+
+`Git` `GitHub` `Docker` `Postman` `Linux`
+
+---
+
+## What I'm Working On
+
+```text
+DSA
+ └── Problem Solving → Algorithms → Competitive Programming
+
+Backend
+ └── Node.js → APIs → Authentication → Databases → System Design
+
+Full Stack
+ └── React → Backend → Database → Deployment
+
+Engineering
+ └── Clean Code → Testing → Scalability → Performance
+```
+
+---
+
+## Featured Projects
+
+### Full-Stack Applications
+
+Building complete applications with authentication, APIs, databases, and production-style architecture.
+
+### Backend Projects
+
+Working on REST APIs, authentication systems, database design, validation, error handling and scalable backend architecture.
+
+### Collaborative Applications
+
+Exploring real-time communication, WebSockets and collaborative features.
+
+---
+
+## Currently Learning
+
+* Advanced DSA & problem solving
+* Backend architecture
+* PostgreSQL & database design
+* Authentication & authorization
+* REST API design
+* Docker & deployment
+* System design
+* Writing production-quality code
+
+---
+
+## GitHub Stats
+
+![Pratyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true\&theme=transparent)
+
+---
+
+## Let's Connect
+
+I'm always interested in **software engineering, open source, interesting projects, and difficult technical problems**.
+
+[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+
+---
+
+> **Build. Break. Learn. Repeat.**
+
 
 
 ## 🌐 Socials:
